@@ -82,4 +82,4 @@ Create a mobile based video game which asks the players to pop the greatest numb
  
 2) Ensure compatibility with major mobile OS platforms.
 
-**Push the source code along with a demo video of your solution into the forked github repo. Share the repo link in the google form: https://forms.gle/jSzZMKiq2wxFwgiz**
+**Push the source code along with a demo video of your solution into the forked github repo. Share the repo link in the google form: https://forms.gle/jSzZMKiq2wxFwgiz7**
